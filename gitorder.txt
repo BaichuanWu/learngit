@@ -11,3 +11,5 @@ git log # 查看提交历史
 		然后，点“Add SSH Key”，填上任意Title，在Key文本框里粘贴id_rsa.pub文件的内容：
 git checkout -- file # 撤销工作区所有文件未提交操作
 git reset HEAD file # 撤销add的修改
+git remote add (name of remote hub) git@github.com:Username/repository
+git push -u (name of remote hub) (name of branches)
