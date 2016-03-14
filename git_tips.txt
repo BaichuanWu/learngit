@@ -25,3 +25,4 @@
 12.git branch # 查看分支情况
 13.git merge dev # 转移到master 后 合并dev
 14.git branch -d dev # 删除分支
+15.转换分支前若修该了某文件，会自动上传
