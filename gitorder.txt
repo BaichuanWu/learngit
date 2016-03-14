@@ -12,4 +12,4 @@ git log # 查看提交历史
 git checkout -- file # 撤销工作区所有文件未提交操作
 git reset HEAD file # 撤销add的修改
 git remote add (name of remote hub) git@github.com:Username/repository
-git push -u (name of remote hub) (name of branches)
+git push -u (name of remote hub) (name of branches) # -u仅第一次提交时表示与github的分支关联，之后提交可省略
