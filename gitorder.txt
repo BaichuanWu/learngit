@@ -1,0 +1,3 @@
+git reset --hard commit_id/head^/head~10 # 返回以前版本
+git reflog # 查看命令历史，确定退回哪个版本
+git log # 查看提交历史
