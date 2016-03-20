@@ -1,4 +1,4 @@
-from flask import Flask, render_template, \
+"""from flask import Flask, render_template, \
     session, redirect, url_for, flash
 from flask.ext.script import Manager, Shell
 from flask.ext.bootstrap import Bootstrap
@@ -124,3 +124,5 @@ def dev():
 if __name__ == '__main__':
     manage.run()
     # app.run(debug=True)
+
+    """

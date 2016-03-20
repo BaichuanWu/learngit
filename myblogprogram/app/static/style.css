@@ -1,0 +1,36 @@
+.leftfloat{
+    float: left;
+    margin-right: 100px;
+}
+.clearfloat{
+    clear: both;
+}
+
+.img_top{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.div-left40{
+    float: left;
+    width: 40px;
+    margin-right: 10px;
+}
+.div-right{
+    float: right;
+}
+.div-cleat{
+    clear: both;
+}
+.mar-right{
+    margin-right: 5px;
+}
+.sub-ful{
+    width: 100%;
+    border-top:2px solid whitesmoke;
+    margin-top: 10px;
+    padding-top: 8px;
+    clear: both;
+}
+div li{
+    list-style-type: none;
+}
